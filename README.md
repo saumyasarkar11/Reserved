@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/76894046/149138872-66968721-53a5-4c13-b070-45a6f5cf454a.jpg" alt="Reserved_Logo" width="325">
 <br>
-<b>Reserved</b> is an <b>Online Room Reservation Application</b> suitable for Multi Location & Multi Property Hotel Chains, Big & Small Single Property Hotels & Resorts, Tourist Lodges, Guest Houses, Home Stays and Hostels. The tech stack includes:<br>
+<b>Reserved</b> is an <b>Online Room Reservation Application</b> suitable for Multi Location & Multi Property Hotel Chains, Big & Small Single Property Hotels & Resorts, Tourist Lodges, Guest Houses, Home Stays and Hostels. The tech stack includes:<br><br>
   <li>PHP 7.4 and above</li>
   <li>MySQL</li>
   <li>Javascript & JQuery 3.6</li>
