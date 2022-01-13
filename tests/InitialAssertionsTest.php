@@ -2,7 +2,7 @@
 //php vendor/bin/phpunit tests/ExampleAssertionsTest.php --color
 require 'includes/functions.php';
 
-class ExampleAssertionsTest extends \PHPUnit\Framework\TestCase{
+class InitialAssertionsTest extends \PHPUnit\Framework\TestCase{
     
     public function testDuplicacy(){
         $phone = 9830110244;
