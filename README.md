@@ -13,7 +13,10 @@
   <li>Offers a 3 tier admin interface with specific user priviledges to cut off any chances of data spillage to the inappropriate user group</li>
 <br>
 <h4>Admin and User Interfaces:</h4>
-<kbd><img src="https://user-images.githubusercontent.com/76894046/149259809-668983de-07d4-4373-9980-1d614a93963d.png" width="750px"></kbd><br><br>
-<kbd><img src="https://user-images.githubusercontent.com/76894046/149259881-c1dacc39-673f-453d-8b74-663e3bb09837.png" width="750px"></kbd><br><br>
-<kbd><img src="https://user-images.githubusercontent.com/76894046/149259912-ca96ee65-ba59-478a-bca8-3b08665d791d.png" width="750px"></kbd><br><br>
-<!-- <img src="" width="300px"> -->
+<kbd><img src="https://user-images.githubusercontent.com/76894046/149259809-668983de-07d4-4373-9980-1d614a93963d.png" width="850px"></kbd><br><br>
+<kbd><img src="https://user-images.githubusercontent.com/76894046/149259881-c1dacc39-673f-453d-8b74-663e3bb09837.png" width="850px"></kbd><br><br>
+<kbd><img src="https://user-images.githubusercontent.com/76894046/149259912-ca96ee65-ba59-478a-bca8-3b08665d791d.png" width="850px"></kbd><br><br>
+<kbd><img src="https://user-images.githubusercontent.com/76894046/149261364-cd944282-dbad-43d6-a7b3-a9003bd76903.png" width="850px"></kbd><br><br>
+<kbd><img src="https://user-images.githubusercontent.com/76894046/149261364-cd944282-dbad-43d6-a7b3-a9003bd76903.png" width="850px"></kbd><br><br>
+<kbd><img src="https://user-images.githubusercontent.com/76894046/149260899-a15d2823-b02d-49ec-b400-9aa27b88b8e7.png" width="850px"></kbd><br><br>
+<kbd><img src="https://user-images.githubusercontent.com/76894046/149260890-8865a653-4ec6-4876-b394-06893ba25f96.png" width="850px"></kbd><br><br>
