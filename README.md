@@ -13,7 +13,7 @@
   <li>Offers a 3 tier admin interface with specific user priviledges to cut off any chances of data spillage to the inappropriate user group</li>
 <br>
 <h4>Admin and User Interfaces:</h4>
-<div align="center"><img src="https://user-images.githubusercontent.com/76894046/149259809-668983de-07d4-4373-9980-1d614a93963d.png" width="600px"></div>
-<div align="center"><img src="https://user-images.githubusercontent.com/76894046/149259881-c1dacc39-673f-453d-8b74-663e3bb09837.png" width="600px"></div>
-<div align="center"><img src="https://user-images.githubusercontent.com/76894046/149259912-ca96ee65-ba59-478a-bca8-3b08665d791d.png" width="600px"></div>
+<div align="center" style="border: 1px grey;"><img src="https://user-images.githubusercontent.com/76894046/149259809-668983de-07d4-4373-9980-1d614a93963d.png" width="750px"></div><br>
+<div align="center" style="border: 1px grey;"><img src="https://user-images.githubusercontent.com/76894046/149259881-c1dacc39-673f-453d-8b74-663e3bb09837.png" width="750px"></div><br>
+<div align="center" style="border: 1px grey;"><img src="https://user-images.githubusercontent.com/76894046/149259912-ca96ee65-ba59-478a-bca8-3b08665d791d.png" width="750px"></div><br>
 <!-- <img src="" width="300px"> -->
