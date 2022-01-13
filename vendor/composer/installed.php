@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => 'd88f0b2e6c95c84f676c858e73229f731f4d41c2',
         'name' => '__root__',
         'dev' => true,
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'd88f0b2e6c95c84f676c858e73229f731f4d41c2',
             'dev_requirement' => false,
         ),
         'behat/gherkin' => array(
@@ -221,12 +221,12 @@
             'dev_requirement' => false,
         ),
         'phpunit/phpunit' => array(
-            'pretty_version' => '9.5.10',
-            'version' => '9.5.10.0',
+            'pretty_version' => '9.5.11',
+            'version' => '9.5.11.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../phpunit/phpunit',
             'aliases' => array(),
-            'reference' => 'c814a05837f2edb0d1471d6e3f4ab3501ca3899a',
+            'reference' => '2406855036db1102126125537adb1406f7242fdd',
             'dev_requirement' => false,
         ),
         'psr/container' => array(

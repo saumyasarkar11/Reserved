@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ExampleAssertionsTest::testThatStringsMatch":5,"ExampleAssertionsTest::testDuplicacy":3,"ExampleAssertionsTest::testLocationsReturned":4},"times":{"ExampleAssertionsTest::testThatStringsMatch":0.002,"ExampleAssertionsTest::testDuplicacy":0.002,"ExampleAssertionsTest::testLocationsReturned":0.002}}

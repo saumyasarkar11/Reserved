@@ -22,7 +22,7 @@ require 'functions.php';
         <span class="org_name"><?php echo fetchConfig(1); ?></span></span>
         <span id="contact-details">
           For any booking related queries,<br>
-          call: +91-033-25328860
+          call: +91-9830110244
         </span>
       </div>      
     </header>

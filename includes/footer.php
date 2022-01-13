@@ -188,14 +188,14 @@
   })
   
   for(var i=0; i < arr.length; i++){
-        for(var j=0; j+1 < arr.length - i; j++){
-            if(arr[j]>arr[j+1]){
-                var temp = arr[j]; 
-                arr[j] = arr[j+1];
-                arr[j+1] = temp;
-            }
-        }
+    for(var j=0; j+1 < arr.length - i; j++){
+      if(arr[j]>arr[j+1]){
+        var temp = arr[j]; 
+        arr[j] = arr[j+1];
+        arr[j+1] = temp;
+      }
     }
+  }
   
   $.ajax({
     async: false,
@@ -236,25 +236,17 @@
  })
 
   $(document).ready(function(){
-    if($(window).width()<500){
+    if($(window).width()<500)
       $('.header-logo1').attr("src", "assets/images/logo.jpg");
-      $('#btn-txt').text("Login");
-    }
-    if($(window).width()>500){
+    else
       $('.header-logo1').attr("src", "assets/images/logo1.jpg");
-      $('#btn-txt').text("Hotel Login");
-    }    
   });
 
   $(window).resize(function(){
-    if($(window).width()<500){
+    if($(window).width()<500)
       $('.header-logo1').attr("src", "assets/images/logo.jpg");
-      $('#btn-txt').text("Login");
-    }
-    if($(window).width()>500){
+    else
       $('.header-logo1').attr("src", "assets/images/logo1.jpg");
-      $('#btn-txt').text("Hotel Login");
-    } 
   })
 
   $('#login_main').click(function(){

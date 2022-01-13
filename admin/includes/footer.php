@@ -54,7 +54,7 @@
 <script>
   $(document).ready(function() {
     var pathname = window.location.pathname;
-    var name = pathname.replace('/admin/', '');
+    var name = pathname.replace('/hotel/admin/', '');
     const urlParams = new URLSearchParams(window.location.search);
     if(name == "bookings.php" && urlParams == "1="){
         $('#book2').removeClass("active");

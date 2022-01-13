@@ -39,10 +39,10 @@ if(empty($_SESSION['email'])){
               w-100
             "
           >
-            <a class="navbar-brand brand-logo" href="index.html"
+            <a class="navbar-brand brand-logo" href="#"
               ><img src="images/logo.jpg" alt="logo"
             /></a>
-            <a class="navbar-brand brand-logo-mini" href="index.html"
+            <a class="navbar-brand brand-logo-mini" href="#"
               ><img src="images/logo-mini.jpg" alt="logo"
             /></a>
             <button
