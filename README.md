@@ -22,5 +22,5 @@
 <h4>Usage Guidelines</h4>
 <li>Clone the repository</li>
 <li>Setup the database and payment gateway through the .env file in the includes folder</li>
-<li>Create an instamojo account (<a href="https://www.instamojo.com">Link</a>) to facilitate payments retrieval from users</li>
+<li>Create an instamojo account (<a href="https://www.instamojo.com" target="_blank">Link</a>) to facilitate payments retrieval from users</li>
 <li>Add properties, respective rooms and set up the view of the front end through the setup admin (Email: abc@gmail.com, Password: password)</li>
